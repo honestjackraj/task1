@@ -1,0 +1,37 @@
+                                                                                                                                    
+                 Name :Honestraj B30WE
+                                                                                                                                                   
+                 Day1 assessment
+
+                  Q1 Write a difference between HTTP1.1 and HTTP2.
+                     
+                      *HTTP or Hyper Text Transfer Protocol is standard for communication on world wide web since its invention in 1989
+ 
+                            HTTP 1.1                                                     HTTP 2
+                
+                      * Developed by Timothy berners lee                        * Developed by Google
+                      
+                      * It must take multiple TCP connections                   * It simply establishes single connection object
+                        to lessen the effect of HOL blocking                      between two machines 
+               
+                      * Syntax and semantics are seperated                      * Addition of server push function
+               -----------------------------------------------------------------------------------------------------------------------------------   
+                  Q2 Write a blog about objects and its internal reprsentation in javascript.
+    
+                      * Objects in javascript is the most important data-type and forms the building blocks for modern js
+
+                      * Object in javascript is quite differnet from javascript primitive datatypes
+
+                      * While primitive datatype can store single datatype and Object can save many types of primitive datatype as well as primitive data types
+
+                      * objects always come with key-value pair
+
+                      * var myCar = new Object();
+                        myCar.make = "Ford";
+                        myCar.model = "Mustang";
+                        myCar.year = 1969;
+                           
+                                #unassigned properties of the object is undefined and not null
+
+                        myCar.color; ie unassigned.
+                                                                        ##############################
